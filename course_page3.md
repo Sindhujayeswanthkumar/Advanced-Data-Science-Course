@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advanced Data Science Course
-description: Check Vidthe eo link and Course contents here.
+description: Check the video link and Course contents here.
 ---
 
 ## Course Content
